@@ -1,1 +1,1 @@
-# 21-video31-leela-web-dev-angular-ngrx-counter-added-signup-effects
+En este video hemos agregado los effects para signup --> signUp$ = createEffect(() => {
